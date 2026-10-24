@@ -96,3 +96,7 @@ uv run --with mcp --with pyte python test_server.py
 ```
 
 The test covers a REPL round-trip, `ctrl-c` interrupt, curses TUI rendering, mouse click position, the nesting guard, and `read(until=…)` with `kill`.
+
+## License
+
+[MIT](LICENSE)
